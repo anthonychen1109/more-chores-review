@@ -1,16 +1,16 @@
 {
   "chores": [
     {
-      "title": "new task",
-      "duration": "3 hours",
-      "priority": "high",
-      "id": 8
+      "title": "new chore",
+      "priority": "lowa",
+      "duration": "1 minute",
+      "id": 1
     },
     {
-      "title": "new thing",
-      "duration": "2hours",
+      "title": "new chore2",
       "priority": "high",
-      "id": 9
+      "duration": "3 minutes",
+      "id": 2
     }
   ]
 }
